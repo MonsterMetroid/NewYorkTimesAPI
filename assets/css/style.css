@@ -15,7 +15,14 @@ body {
 	text-align:center;
 }
 
-h1 {
+.button.button-primary, button.button-primary, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
+    color: #ffffff;
+    background-color: #004080;
+    border-color: #004080;
+}
+
+
+h1, i {
 	display: inline-block;
   vertical-align: middle;
   line-height: normal;
