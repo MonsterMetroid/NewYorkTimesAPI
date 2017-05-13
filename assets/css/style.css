@@ -21,6 +21,11 @@ body {
     border-color: #004080;
 }
 
+.button.button-primary:hover, button.button-primary:hover, input[type="submit"].button-primary:hover, input[type="reset"].button-primary:hover, input[type="button"].button-primary:hover {
+	background-color: #5186db;
+    border-color: #5186db;
+}
+
 
 h1, i {
 	display: inline-block;
@@ -28,4 +33,5 @@ h1, i {
   line-height: normal;
   margin-top: 1em;
   margin-bottom: 1em;
+  margin-right: 1em;
 }
