@@ -1,5 +1,5 @@
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .border {
@@ -7,4 +7,18 @@ body {
 	border-color: black;
 	border-width: 10em;
 
+}
+
+.page-header {
+	background-color: #004080;
+	color: #ffffff;
+	text-align:center;
+}
+
+h1 {
+	display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
